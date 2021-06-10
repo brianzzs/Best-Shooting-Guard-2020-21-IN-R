@@ -68,9 +68,8 @@ This one is simpler, Steals and Blocks. The goal for this one is: We aren't look
  
  Usage Rate: Usage percentage is an estimate of the percentage of team plays used by a player while he was on the floor. Source: https://www.nbastuffer.com/analytics101/usage-rate/
  
- <h3> 
- Now that you know what BPM and Winshares stands for, you can safely assume that: The more Winshares, **the better**. The higher **BPM** of a player is, **the better**.
- </h3>
+ <h3> Now that you know what BPM and Winshares stands for, you can safely assume that: </h3>
+ The more Winshares, **the better**. The higher **BPM** of a player is, **the better**.
  
  ![WS + BPM](https://imgur.com/PBo1nUp.png)
  
@@ -87,4 +86,5 @@ I guess, it's safe to say that Bradley Beal is the best shooting guard *RIGHT NO
 
 Also, this is from a statistical point of view, not from the eye-test.
 
+Thanks, Basketball Reference! https://www.basketball-reference.com/.
 
