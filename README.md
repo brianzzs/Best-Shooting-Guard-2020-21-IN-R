@@ -1,9 +1,11 @@
 # WHOS THE BEST SHOOTING GUARD IN THE NBA SEASON 2020-21?
 
+<h3> BRADLEY BEAL, WHY? </h3>
 
-First and Foremost, a special thanks to https://www.basketball-reference.com , for disposing those Datas for free, and making this study possible. 
+First and Foremost, a special thanks to https://www.basketball-reference.com , for disposing this data for free, and making this study possible. 
 
 On another note,  this is just a **BASIC STUDY CASE**, which means, this has no use other than fun and studies. I'm still learning and improving on my R usage.
+And this doesn't count the "eye-test", it's just statistic.
 
 
 <h1> What's the motivation behind the study? </h1>
