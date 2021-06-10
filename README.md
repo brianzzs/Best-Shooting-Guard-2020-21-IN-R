@@ -1,4 +1,4 @@
-# WHOS THE BEST SHOOTING GUARD IN THE NBA SEASON 2020-21?
+# WHO IS THE BEST SHOOTING GUARD IN THE NBA SEASON 2020-21?
 
 <h3> BRADLEY BEAL, WHY? </h3>
 
@@ -22,7 +22,7 @@ Basketball isn't one of the most popular sports on Brazil, and I'm assuming the 
 
 
 <h1> RESULTS FOR PURE SCORING </h1>
-  I tried to be **VERY** **SPECIFIC**. 
+  I tried to be **VERY SPECIFIC. ** 
   Between ALL Shooting Guards that plays on the NBA, I was looking for those specific elite stats:
   
   * Position: Obviously, Shooting Guard.
