@@ -64,7 +64,7 @@ This one is simpler, Steals and Blocks. The goal for this one is: We aren't look
  
  
  <h4> Some Explanations for those Advanced stats </h4>
- Win Shares: A player with negative Win Shares was so poor that he essentially took away wins that his teammates had generated (Basically Explaning, it servers for the contrary, the more Winshares, the more he made his team win). Source: https://www.basketball-reference.com/about/ws.html
+ Win Shares: A player with negative Win Shares was so poor that he essentially took away wins that his teammates had generated (Basically explaning, it serves for the contrary, the more Winshares, the more he made his team win). Source: https://www.basketball-reference.com/about/ws.html
  
  BPM (Box Plus Minus): BPM uses a player’s box score information, position, and the team’s overall performance to estimate the player’s contribution in points above league average per 100 possessions played. Source: https://www.basketball-reference.com/about/bpm2.html
  
